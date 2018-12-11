@@ -10,7 +10,7 @@
 
 * Fig.3: 14-20美国智能家居渗透率 Done
 * Fig.4: 2016各国渗透率 Done
-* **Fig.5：智能家居主要产品市场占比 Almost**
+* **Fig.5：智能家居主要产品市场占比 Almost**//done
   * 用 中商产业研究院数据库
 
 ## Page 5
@@ -38,7 +38,7 @@
 
 * Fig.13: WiFi价格变化示意图 Done
   * 是否需要重新调整一下表格宽度？
-* **Fig.14: 智能家居相关专利变化 Almost**
+* **Fig.14: 智能家居相关专利变化 Almost**//done
   * 我记得左神说要删哪个数据的——联系他
 * Fig.15: 13-17住宅房屋施工/竣工面积 Done
 * Fig.16: 13-17年互联网普及率 Done
@@ -47,7 +47,7 @@
 ## Page10
 
 * Fig.18: 中国政策（智能家居相关）年表，**可能没有**
-* **Fig.19: 2013-2017人均可支配收入/消费支出 Done？**
+* **Fig.19: 2013-2017人均可支配收入/消费支出 Done？**//done
 
 ## Page 11
 
@@ -58,7 +58,7 @@
 
 ## Page 12
 
-* **Fig.22: 销售渠道示意图**
+* **Fig.22: 销售渠道示意图**//done
   * （考虑直接做成一个超Simple的20:80的饼状图）来自：前瞻产业研究院https://bg.qianzhan.com/
   * 原图参考http://images.ofweek.com/Upload/News/2016-7/smarthome/0729/image26.jpg
 
@@ -75,20 +75,20 @@
 
 ## Page 15
 
-* **Fig.26：智能家居产品主要漏洞（表格）Almost**
+* **Fig.26：智能家居产品主要漏洞（表格）Almost**//排版直接放？
   * 我没看到，但是你应该做过
-* **Fig.27:中国网民网络安全意识调查**
+* **Fig.27:中国网民网络安全意识调查**//done
   * 网民将所有账号都使用同一个密码 13.8%
   * 仅使用纯数字、纯密码 8.1%
   * 81.64%的网民没有定期更换密码
 
 ## Page 16-17
 
-* **Fig.28: ZigBee Alliance与Thread Group合作**
+* **Fig.28: ZigBee Alliance与Thread Group合作**//done
 
   * 可以参考文件夹里面提供的图片，重新绘制一张图片
 
-* **Fig.29:Open Connectivity Foundation (OCF)与AllSeen Alliance决定合并**
+* **Fig.29:Open Connectivity Foundation (OCF)与AllSeen Alliance决定合并**//done
 
   * 看资料构图，表达一下两个团体都很牛逼，然后他们合并了
 
