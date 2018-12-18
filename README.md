@@ -6,6 +6,7 @@
   * 修改之后选择 ```Create a new branch for this commit and start a pull request.```
 2. 针对pdf文件
   * 新建一个md文件/在原有的md文件中增加
+3. 本周五23：59之前完成互相审稿；各部分负责人在周日23：59之前完成 通过/拒绝 修改。
 ### 逻辑模型
 
 重新做一个表格
