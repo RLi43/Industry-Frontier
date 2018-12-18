@@ -2,9 +2,10 @@
 2018秋产业前沿
 ## 任务
 ### 审稿
-直接在原文修改
-
-修改之后选择 ```Create a new branch for this commit and start a pull request.```
+1. 直接在原文修改
+  * 修改之后选择 ```Create a new branch for this commit and start a pull request.```
+2. 针对pdf文件
+  * 新建一个md文件/在原有的md文件中增加
 ## 问题与建议
 
 ### 其他
