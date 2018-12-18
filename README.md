@@ -6,6 +6,15 @@
   * 修改之后选择 ```Create a new branch for this commit and start a pull request.```
 2. 针对pdf文件
   * 新建一个md文件/在原有的md文件中增加
+### 逻辑模型
+
+重新做一个表格
+
+### 组员介绍
+
+- 工作
+- 胜任此工作的原因
+
 ## 问题与建议
 
 ### 其他
