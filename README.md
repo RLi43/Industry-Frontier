@@ -5,6 +5,16 @@
 直接在原文修改
 
 修改之后选择 ```Create a new branch for this commit and start a pull request.```
+
+### 逻辑模型
+
+重新做一个表格
+
+### 组员介绍
+
+* 工作
+* 胜任此工作的原因
+
 ## 问题与建议
 
 ### 其他
