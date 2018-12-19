@@ -2,9 +2,20 @@
 2018秋产业前沿
 ## 任务
 ### 审稿
-直接在原文修改
+1. 直接在原文修改
+  * 修改之后选择 ```Create a new branch for this commit and start a pull request.```
+2. 针对pdf文件
+  * 新建一个md文件/在原有的md文件中增加
+3. 本周五23：59之前完成互相审稿；各部分负责人在周日23：59之前完成 通过/拒绝 修改。
+### 逻辑模型
 
-修改之后选择 ```Create a new branch for this commit and start a pull request.```
+重新做一个表格
+
+### 组员介绍
+
+- 工作
+- 胜任此工作的原因
+
 ## 问题与建议
 
 ### 其他
